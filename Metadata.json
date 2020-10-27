@@ -1,0 +1,20 @@
+{
+    "Author": "robcost",
+    "ContentSize": 17157,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/run-tasks-on-azure-virtual-machines-using-the-custom-script-extension/master/Push-AzureVMCommand.ps1",
+    "DownloadCount": 5637,
+    "Id": "Run-tasks-on-Azure-Virtual-4997b390",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 43,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-12-8T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This Azure Automation runbook can be used to push a script or scriptblock to an Azure VM using the Custom Script extension component of the Azure VM Agent. This allows scripts to be run on Azure VM's without the need for the PowerShell Endpoint being enabled and WinRM configured.",
+    "Title": "Run tasks on Azure Virtual Machines using the Custom Script Extension",
+    "UpdatedDate": "2014-12-16T00:00:00",
+    "Url": "https://github.com/azureautomation/run-tasks-on-azure-virtual-machines-using-the-custom-script-extension",
+    "UserTags": "Azure Automation, VM Lifecycle Management, Provisioning"
+}
